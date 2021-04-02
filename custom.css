@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+}
+
+main {
+  min-height: 100%;
+  margin-bottom: -70px;
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+
+.blue {
+  background-color: #6da4d1;
+  color: white !important;
+  border: none;
+}
+
+.darkblue {
+  background-color: #5b91bd;
+
+}
+
+
+.btn-outline{
+  border-color: #5b91bd;
+  background: #6da4d1;
+  color: white;
+}
+
+.btn-outline:hover {
+  border-color: #5b91bd;
+  background: #5b91bd;
+  color: white;
+
+}
